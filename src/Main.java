@@ -1,11 +1,11 @@
+package funcion;
 /**
  * Created by luis on 3/11/16.
  */
+import funcion.funcion;
+
 public class Main {
     public static void main(String[] args){
-      printHola();
-    }
-    public static void printHola(){
-    System.out.println("Hola món!");
+    printHola();
     }
 }
